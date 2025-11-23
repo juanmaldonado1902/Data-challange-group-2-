@@ -20,5 +20,7 @@ El uso de la IA dentro del modelo fue ocupada para la codificación y el manejo 
 Trabajo realizado por cada participante
 
 Juan Pablo Maldonado Rojas 000202145 : Configuración de la base de datos final y creación del readme
+
 Alberto Reyes : Realización del modelo a partir de la base de datos generada.
+
 Alex Cano : Realización de gráficas, estudio de correlaciones y organización del texto final
