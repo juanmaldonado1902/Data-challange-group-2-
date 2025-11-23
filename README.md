@@ -6,6 +6,7 @@ Dentro del repositorio se encuentra el siguiente contenido:
 3.- Conjunto de mapas del log(rendimiento) con restricciones (número de lintings mínimo) y con distintas configuraciones (Z-score y regular).
 4.- Estadística descriptiva de la variable log(rendimiento)
 5.- Apéndice que únifica en un word los resultados "extra" del modelo y las configuraciones de las variables.
+6.- Modelo final restringido a más de 25 listings por colonia en formato html.
 
 
 El uso de la IA dentro del modelo fue ocupada para la codificación y el manejo de las bases de datos. Especialmente fue particularmente útil en la creación de los mapas y en la posibilidad de crear unificación geo-espaciales por colonia.
