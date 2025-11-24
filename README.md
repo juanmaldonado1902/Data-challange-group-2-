@@ -15,12 +15,12 @@ Dentro del repositorio se encuentra el siguiente contenido:
 6.- Modelo final restringido a más de 25 listings por colonia en formato html.
 
 
-El uso de la IA dentro del modelo fue ocupada para la codificación y el manejo de las bases de datos. Especialmente fue particularmente útil en la creación de los mapas y en la posibilidad de crear unificación geo-espaciales por colonia.
+El uso de la IA dentro del modelo fue ocupada para la codificación y el manejo de las bases de datos. Especialmente fue particularmente útil en la creación de los mapas y en la posibilidad de crear unificación geo-espaciales por colonia. La inteligencia artificial ocupada fue CHATGPT.
 
 Trabajo realizado por cada participante
 
-Juan Pablo Maldonado Rojas 000202145 : Configuración de la base de datos final y creación del readme
+Juan Pablo Maldonado Rojas 000202145 : Configuración de la base de datos final, generación tabla de rendimientos por colonia, planteamiento del modelo econométrico por colonia y   creación del repositorio y el readme
 
-Alberto Reyes : Realización del modelo a partir de la base de datos generada.
+Alberto Reyes : Realización análisis distancias (Búsqueda y match de la información geoespacial), estudio correlaciones con el rendimiento real y realización modelo respecto ditancias.
 
-Alex Cano : Realización de gráficas, estudio de correlaciones y organización del texto final
+Alex Cano : Realización del apéndice estadístico, estudio de correlaciones y organización del texto final.
