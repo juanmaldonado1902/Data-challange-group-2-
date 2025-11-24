@@ -14,6 +14,8 @@ Dentro del repositorio se encuentra el siguiente contenido:
 
 6.- Modelo final restringido a más de 25 listings por colonia en formato html.
 
+7.- Apéndice estadístico que unifica toda la información generada.
+
 
 El uso de la IA dentro del modelo fue ocupada para la codificación y el manejo de las bases de datos. Especialmente fue particularmente útil en la creación de los mapas y en la posibilidad de crear unificación geo-espaciales por colonia. La inteligencia artificial ocupada fue CHATGPT.
 
