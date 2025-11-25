@@ -16,7 +16,7 @@ Dentro del repositorio se encuentra el siguiente contenido:
 
 7.- Apéndice estadístico que unifica toda la información generada.
 
-8.- Código principal del modelo contiene: generación variable rendimiento, modelo principal, generación del mapa rendimientos por colonia y cálculo de los metro cuadrado por departamento.
+8.- Código principal del modelo contiene: generación variable rendimiento, modelo principal, generación del mapa rendimientos por colonia y cálculo de los metro cuadrado por departamento (Funciona con la base de datos final).
 
 9.- Código generación análisis espacial, unión de distancias y cálculo del modelo para determinar relación con la variable rendimiento.
 
