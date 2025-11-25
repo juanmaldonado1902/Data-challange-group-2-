@@ -27,6 +27,6 @@ Trabajo realizado por cada participante
 
 Juan Pablo Maldonado Rojas 000202145 : Configuración de la base de datos final, generación tabla de rendimientos por colonia, planteamiento del modelo econométrico por colonia y   creación del repositorio y el readme
 
-Alberto Reyes : Realización análisis distancias (Búsqueda y match de la información geoespacial), estudio correlaciones con el rendimiento real y realización modelo respecto ditancias.
+Alberto Reyes 000174819: Realización análisis distancias (Búsqueda y match de la información geoespacial), estudió correlaciones con el rendimiento real y realización modelo respecto ditancias.
 
 Alex Cano : Realización del apéndice estadístico, estudio de correlaciones y organización del texto final.
